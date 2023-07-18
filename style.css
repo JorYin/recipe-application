@@ -118,3 +118,15 @@ form{
     padding: 1rem;
   }
 }
+
+@media screen and (max-width: 800px) {
+  .container{
+    padding: 1rem;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+  .container{
+    padding: 1rem;
+  }
+}
