@@ -1,4 +1,4 @@
-const apiKey = process.env.API_KEY;
+const apiKey = "YOUR OWN API KEY FROM spoonacular";
 
 const form = document.querySelector("form");
 const searchInput = document.querySelector(".recipe-input");
