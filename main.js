@@ -1,7 +1,3 @@
-require('dotenv').config();
-
-console.log(process.env);
-
 const apiKey = process.env.API_KEY;
 
 const form = document.querySelector("form");
