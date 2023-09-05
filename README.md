@@ -1,6 +1,4 @@
-# ToDo-List 
 
-## First introduction to Javascript.
 
 ### Desktop
 ![Desktop app image](Img/Desktop.png)
@@ -17,3 +15,4 @@
 - [x] Async functions 
 - [x] Responsive
 - [x] Alert if input is not filled
+
